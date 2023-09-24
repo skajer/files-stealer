@@ -12,11 +12,10 @@ This scirpt was made for fun and entertiment, don't try to steal others people f
 3. Work on if statements
 4. Add progress bar or smth, 5. sending email ~ hour and much more...
 
-* 1 - ❌
+* 1 - ?? 
 * 2 - ❌
-* 3 - ✔️
-* 4 - ❌
-* 5 - ❌
+* 3 - ✅
+* 4 - ✅
 
 ## **Usage** ##
 THIS SCRIPT IS MONITORING THAT IF NEW DEVICES (PENDRIVES) ARE CONNECTED TO YOUR PC, IF SO THIS SCRIPT WILL COPY ALL FILES THAT PENDRIVE CONTAINS TO save_path.
